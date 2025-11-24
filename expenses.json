@@ -1,1 +1,23 @@
-[{"id": 1, "amount": 290.0, "category": "Coffee", "note": "maja aagya ", "date": "2025-11-24"}, {"id": 2, "amount": 50.0, "category": "tea", "note": "tea is awesome ", "date": "2025-11-24"}, {"id": 3, "amount": 6.0, "category": "6", "note": "6", "date": "2025-11-24"}, {"id": 4, "amount": 150.0, "category": "Coffee", "note": "bdhiya thi", "date": "2025-11-24"}, {"id": 5, "amount": 6.0, "category": "tea", "note": "bdiya", "date": "2025-11-24"}]
+[
+  {
+    "id": 1,
+    "amount": 450.0,
+    "category": "Grocery",
+    "note": "Weekly shopping",
+    "date": "2025-11-22"
+  },
+  {
+    "id": 2,
+    "amount": 1200.0,
+    "category": "Rent",
+    "note": "Done for November month",
+    "date": "2025-11-01"
+  },
+  {
+    "id": 3,
+    "amount": 250.0,
+    "category": "Food",
+    "note": "Dinner with friends on weekend",
+    "date": "2025-11-23"
+  }
+]
