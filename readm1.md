@@ -104,4 +104,3 @@ Food : 250.0
 👤 Author
 
 Ansh Yadav
-Academic Year:2025 – 2026
